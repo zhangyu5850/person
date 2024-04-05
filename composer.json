@@ -1,0 +1,16 @@
+{
+    "name": "test/test",
+    "version": "2.7.2",
+    "require": {
+        "php": ">=7.4.1",
+        "ext-phalcon": "^5.0.0",
+        "phalcon/migrations": "^3.0",
+        "monolog/monolog": "^2.9"
+    },
+    "repositories": [
+        {
+            "type" : "composer",
+            "url" : "https://packagist.duomai.com"
+        }
+    ]
+}
